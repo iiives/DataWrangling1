@@ -16,10 +16,10 @@ Separate the product code and product number into separate columns i.e. add two 
 
 #####3: Add product categories
 You learn that the product codes actually represent the following product categories:
-*p = Smartphone
-*v = TV
-*x = Laptop
-*q = Tablet
+* p = Smartphone
+* v = TV
+* x = Laptop
+* q = Tablet
 In order to make the data more readable, add a column with the product category for each record.
 
 #####4: Add full address for geocoding
@@ -29,5 +29,5 @@ You'd like to view the customer information on a map. In order to do that, the a
 Both the company name and product category are categorical variables i.e. they take only a fixed set of values. In order to use them in further analysis you need to create dummy variables. 
 Create dummy binary variables for each of them with the prefix company_ and product_ i.e.
 
-*Add four binary (1 or 0) columns for company: company_philips, company_akzo, company_van_houten and company_unilever
-*Add four binary (1 or 0) columns for product category: product_smartphone, product_tv, product_laptop and product_tablet
+* Add four binary (1 or 0) columns for company: company_philips, company_akzo, company_van_houten and company_unilever
+* Add four binary (1 or 0) columns for product category: product_smartphone, product_tv, product_laptop and product_tablet
