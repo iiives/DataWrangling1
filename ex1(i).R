@@ -79,3 +79,9 @@ result6<- mutate(result6, product_tv = lapply(result5$product_code,dummy,"v"))
 result6<- mutate(result6, product_laptop  = lapply(result5$product_code,dummy,"x"))
 result6<- mutate(result6, product_tablet = lapply(result5$product_code,dummy,"q"))
 result6
+    
+
+##Write to csv file
+result7 <- as.matrix(result6)
+write.csv(result7, "refine_clean.csv",row.names=FALSE, qmethod = "double")
+    # still investigating how to override and enable escape of comma values within a cell to prevent the data being split
