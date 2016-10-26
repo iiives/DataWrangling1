@@ -1,26 +1,26 @@
-"company","Product.code...number","product_code","product_number","full_address","address","city","country","name","company_philips","company_akzo","company_van_houten","company_unilever","product_smartphone","product_tv","product_laptop","product_tablet"
-philips,p-5,p,5,Groningensingel 147,arnhem,the netherlands,Groningensingel 147,arnhem,the netherlands,dhr p. jansen,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
-philips,p-43,p,43,Groningensingel 148,arnhem,the netherlands,Groningensingel 148,arnhem,the netherlands,dhr p. hansen,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
-philips,x-3,x,3,Groningensingel 149,arnhem,the netherlands,Groningensingel 149,arnhem,the netherlands,dhr j. Gansen,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-philips,x-34,x,34,Groningensingel 150,arnhem,the netherlands,Groningensingel 150,arnhem,the netherlands,dhr p. mansen,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-philips,x-12,x,12,Groningensingel 151,arnhem,the netherlands,Groningensingel 151,arnhem,the netherlands,dhr p. fransen,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-philips,p-23,p,23,Groningensingel 152,arnhem,the netherlands,Groningensingel 152,arnhem,the netherlands,dhr p. franssen,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
-akzo,v-43,v,43,Leeuwardenweg 178,arnhem,the netherlands,Leeuwardenweg 178,arnhem,the netherlands,dhr p. bansen,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
-akzo,v-12,v,12,Leeuwardenweg 179,arnhem,the netherlands,Leeuwardenweg 179,arnhem,the netherlands,dhr p. vansen,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
-akzo,x-5,x,5,Leeuwardenweg 180,arnhem,the netherlands,Leeuwardenweg 180,arnhem,the netherlands,dhr p. bransen,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-akzo,p-34,p,34,Leeuwardenweg 181,arnhem,the netherlands,Leeuwardenweg 181,arnhem,the netherlands,dhr p. janssen,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
-akzo,q-5,q,5,Leeuwardenweg 182,arnhem,the netherlands,Leeuwardenweg 182,arnhem,the netherlands,mevr l.  rokken,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
-akzo,q-9,q,9,Leeuwardenweg 183,arnhem,the netherlands,Leeuwardenweg 183,arnhem,the netherlands,mevr l.  lokken,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
-akzo,x-8,x,8,Leeuwardenweg 184,arnhem,the netherlands,Leeuwardenweg 184,arnhem,the netherlands,mevr l.  mokken,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
-philips,p-56,p,56,Delfzijlstraat 54,arnhem,the netherlands,Delfzijlstraat 54,arnhem,the netherlands,mevr l.  mokken,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
-philips,v-67,v,67,Delfzijlstraat 55,arnhem,the netherlands,Delfzijlstraat 55,arnhem,the netherlands,mevr l.  mokken,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
-philips,v-21,v,21,Delfzijlstraat 56,arnhem,the netherlands,Delfzijlstraat 56,arnhem,the netherlands,mevr l.  mokken,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
-van houten,x-45,x,45,Delfzijlstraat 57,arnhem,the netherlands,Delfzijlstraat 57,arnhem,the netherlands,mevr l.  sokken,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
-van houten,v-56,v,56,Delfzijlstraat 58,arnhem,the netherlands,Delfzijlstraat 58,arnhem,the netherlands,mevr l.  wokken,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
-van houten,v-65,v,65,Delfzijlstraat 59,arnhem,the netherlands,Delfzijlstraat 59,arnhem,the netherlands,mevr l.  kokken,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
-van houten,x-21,x,21,Delfzijlstraat 60,arnhem,the netherlands,Delfzijlstraat 60,arnhem,the netherlands,mevr l.  Bokken,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
-van houten,p-23,p,23,Delfzijlstraat 61,arnhem,the netherlands,Delfzijlstraat 61,arnhem,the netherlands,mevr l.  dokken,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
-unilever,x-3,x,3,Jourestraat 23,arnhem,the netherlands,Jourestraat 23,arnhem,the netherlands,mevr l.  gokken,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
-unilever,q-4,q,4,Jourestraat 24,arnhem,the netherlands,Jourestraat 24,arnhem,the netherlands,mevr l.  stokken,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
-unilever,q-6,q,6,Jourestraat 25,arnhem,the netherlands,Jourestraat 25,arnhem,the netherlands,mevr l.  rokken,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
-unilever,q-8,q,8,Jourestraat 26,arnhem,the netherlands,Jourestraat 26,arnhem,the netherlands,mevr l.  rokken,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+"company","Product.code...number","product_code","product_number","full_address","address","city","country","name","product_categories","company_philips","company_akzo","company_van_houten","company_unilever","product_smartphone","product_tv","product_laptop","product_tablet"
+philips,p-5,p,5," Groningensingel 147,arnhem,the netherlands ",Groningensingel 147,arnhem,the netherlands,dhr p. jansen,Smartphone,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+philips,p-43,p,43," Groningensingel 148,arnhem,the netherlands ",Groningensingel 148,arnhem,the netherlands,dhr p. hansen,Smartphone,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+philips,x-3,x,3," Groningensingel 149,arnhem,the netherlands ",Groningensingel 149,arnhem,the netherlands,dhr j. Gansen,Laptop,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+philips,x-34,x,34," Groningensingel 150,arnhem,the netherlands ",Groningensingel 150,arnhem,the netherlands,dhr p. mansen,Laptop,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+philips,x-12,x,12," Groningensingel 151,arnhem,the netherlands ",Groningensingel 151,arnhem,the netherlands,dhr p. fransen,Laptop,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+philips,p-23,p,23," Groningensingel 152,arnhem,the netherlands ",Groningensingel 152,arnhem,the netherlands,dhr p. franssen,Smartphone,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+akzo,v-43,v,43," Leeuwardenweg 178,arnhem,the netherlands ",Leeuwardenweg 178,arnhem,the netherlands,dhr p. bansen,TV,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+akzo,v-12,v,12," Leeuwardenweg 179,arnhem,the netherlands ",Leeuwardenweg 179,arnhem,the netherlands,dhr p. vansen,TV,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+akzo,x-5,x,5," Leeuwardenweg 180,arnhem,the netherlands ",Leeuwardenweg 180,arnhem,the netherlands,dhr p. bransen,Laptop,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+akzo,p-34,p,34," Leeuwardenweg 181,arnhem,the netherlands ",Leeuwardenweg 181,arnhem,the netherlands,dhr p. janssen,Smartphone,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+akzo,q-5,q,5," Leeuwardenweg 182,arnhem,the netherlands ",Leeuwardenweg 182,arnhem,the netherlands,mevr l.  rokken,Tablet,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+akzo,q-9,q,9," Leeuwardenweg 183,arnhem,the netherlands ",Leeuwardenweg 183,arnhem,the netherlands,mevr l.  lokken,Tablet,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+akzo,x-8,x,8," Leeuwardenweg 184,arnhem,the netherlands ",Leeuwardenweg 184,arnhem,the netherlands,mevr l.  mokken,Laptop,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+philips,p-56,p,56," Delfzijlstraat 54,arnhem,the netherlands ",Delfzijlstraat 54,arnhem,the netherlands,mevr l.  mokken,Smartphone,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+philips,v-67,v,67," Delfzijlstraat 55,arnhem,the netherlands ",Delfzijlstraat 55,arnhem,the netherlands,mevr l.  mokken,TV,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+philips,v-21,v,21," Delfzijlstraat 56,arnhem,the netherlands ",Delfzijlstraat 56,arnhem,the netherlands,mevr l.  mokken,TV,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+van houten,x-45,x,45," Delfzijlstraat 57,arnhem,the netherlands ",Delfzijlstraat 57,arnhem,the netherlands,mevr l.  sokken,Laptop,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+van houten,v-56,v,56," Delfzijlstraat 58,arnhem,the netherlands ",Delfzijlstraat 58,arnhem,the netherlands,mevr l.  wokken,TV,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+van houten,v-65,v,65," Delfzijlstraat 59,arnhem,the netherlands ",Delfzijlstraat 59,arnhem,the netherlands,mevr l.  kokken,TV,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+van houten,x-21,x,21," Delfzijlstraat 60,arnhem,the netherlands ",Delfzijlstraat 60,arnhem,the netherlands,mevr l.  Bokken,Laptop,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+van houten,p-23,p,23," Delfzijlstraat 61,arnhem,the netherlands ",Delfzijlstraat 61,arnhem,the netherlands,mevr l.  dokken,Smartphone,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+unilever,x-3,x,3," Jourestraat 23,arnhem,the netherlands ",Jourestraat 23,arnhem,the netherlands,mevr l.  gokken,Laptop,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+unilever,q-4,q,4," Jourestraat 24,arnhem,the netherlands ",Jourestraat 24,arnhem,the netherlands,mevr l.  stokken,Tablet,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+unilever,q-6,q,6," Jourestraat 25,arnhem,the netherlands ",Jourestraat 25,arnhem,the netherlands,mevr l.  rokken,Tablet,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+unilever,q-8,q,8," Jourestraat 26,arnhem,the netherlands ",Jourestraat 26,arnhem,the netherlands,mevr l.  rokken,Tablet,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
